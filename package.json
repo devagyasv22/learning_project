@@ -1,0 +1,15 @@
+{
+  "name": "skew",
+  "version": "1.0.0",
+  "description": "This is intro to node js",
+  "license": "ISC",
+  "author": "Devagya Singh Vats",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
