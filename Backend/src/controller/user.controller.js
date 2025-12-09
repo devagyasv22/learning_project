@@ -75,7 +75,7 @@ const logoutUser = async (req, res) => {
         console.error('Error logging out user:', error);
         res.status(500).json({ message: 'Server error' });
     }
-}
+} 
 export { registerUser,
     loginUser,
     logoutUser,
